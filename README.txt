@@ -1,16 +1,18 @@
-VEYLQRPT ACADEMY — DEMO THEME ADAPTATION
+VEYLQRPT ACADEMY — GITHUB PAGES VERSION (LOGO PATH FIXED)
 
-This version follows the uploaded “VEYLQRPT Academy - Coming Soon” demo's visual language:
-- Full-screen SYSTEM INITIALIZING logo loader with pulse glow and rotating orbit.
-- Crimson Matrix rain background using VEYLQRPT-themed characters.
-- Custom red crosshair cursor and trailing ring on desktop only.
-- Large centered dark red glassmorphism card with 3D tilt.
-- Floating, breathing and occasional glitch animation on the exact VEYLQRPT logo.
-- Orbitron + Rajdhani typography, red neon text and animated glass sheen.
-- YouTube, Telegram and Instagram buttons use the requested links.
-- Website Coming Soon panel is deliberately disabled.
-- Responsive mobile layout; crosshair and 3D tilt are disabled on touch screens.
+IMPORTANT: index.html and 82323.png must be in the SAME repository root folder.
 
-Preview: open index.html in a modern browser.
-Keep assets/82323.png beside index.html.
-Publish the entire VEYLQRPT_DemoTheme folder to a static host such as GitHub Pages or Netlify.
+Repository layout:
+_X/
+  index.html
+  82323.png
+  README.md
+  README.txt
+
+The HTML uses src="82323.png" for both the loading-screen logo and main logo.
+YouTube: https://youtube.com/@veylqrpt
+Telegram: https://t.me/+I2_i-QwZpwBlNGY9
+Instagram: https://instagram.com/veylqrpt
+Website remains disabled.
+
+Upload/replace BOTH index.html and 82323.png in the GitHub repository root.
